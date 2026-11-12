@@ -41,5 +41,3 @@ The simulation uses fixed seeds and recreates the two graphs used in the paper. 
 | `urban_rural.csv`, `unemployment_wages.csv` | Additional supplied county data files. The reported fits use SVI, racial composition, and mobility for adjustment. |
 
 The vaccine-hesitancy estimates are documented by [CDC and ASPE](https://data.cdc.gov/Vaccinations/Vaccine-Hesitancy-for-COVID-19-County-and-local-es/q9mh-h2tw/about_data). The supplied weekly file is the direct mortality input to the reproduction scripts. Its upstream mortality provenance and aggregation are outside the included source files.
-
-Extract the ZIP and commit its contents with Git or GitHub Desktop. Some data files exceed GitHub's browser upload limit. [GitHub file size limits](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)
