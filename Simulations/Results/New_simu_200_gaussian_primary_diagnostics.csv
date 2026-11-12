@@ -1,0 +1,2 @@
+"n","n_reps","n_fit","n_failed","graph_source","edges","isolates","rho_tau3","kappa_tau6_local","kappa_tau6_gaussian","frac_nonisolates","outcome_boundary_fits","mediator_boundary_fits"
+200,500,500,0,"new ER distance-weighted graph",947,0,0.114407955324888,0.0364458173288123,0.0330090959857214,1,1,0
